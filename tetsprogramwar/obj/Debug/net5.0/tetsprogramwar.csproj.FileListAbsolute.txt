@@ -1,0 +1,16 @@
+C:\Users\lord-\Desktop\project\test\codewars\tetsprogramwar\bin\Debug\net5.0\tetsprogramwar.exe
+C:\Users\lord-\Desktop\project\test\codewars\tetsprogramwar\bin\Debug\net5.0\tetsprogramwar.deps.json
+C:\Users\lord-\Desktop\project\test\codewars\tetsprogramwar\bin\Debug\net5.0\tetsprogramwar.runtimeconfig.json
+C:\Users\lord-\Desktop\project\test\codewars\tetsprogramwar\bin\Debug\net5.0\tetsprogramwar.runtimeconfig.dev.json
+C:\Users\lord-\Desktop\project\test\codewars\tetsprogramwar\bin\Debug\net5.0\tetsprogramwar.dll
+C:\Users\lord-\Desktop\project\test\codewars\tetsprogramwar\bin\Debug\net5.0\ref\tetsprogramwar.dll
+C:\Users\lord-\Desktop\project\test\codewars\tetsprogramwar\bin\Debug\net5.0\tetsprogramwar.pdb
+C:\Users\lord-\Desktop\project\test\codewars\tetsprogramwar\obj\Debug\net5.0\tetsprogramwar.csprojAssemblyReference.cache
+C:\Users\lord-\Desktop\project\test\codewars\tetsprogramwar\obj\Debug\net5.0\tetsprogramwar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lord-\Desktop\project\test\codewars\tetsprogramwar\obj\Debug\net5.0\tetsprogramwar.AssemblyInfoInputs.cache
+C:\Users\lord-\Desktop\project\test\codewars\tetsprogramwar\obj\Debug\net5.0\tetsprogramwar.AssemblyInfo.cs
+C:\Users\lord-\Desktop\project\test\codewars\tetsprogramwar\obj\Debug\net5.0\tetsprogramwar.csproj.CoreCompileInputs.cache
+C:\Users\lord-\Desktop\project\test\codewars\tetsprogramwar\obj\Debug\net5.0\tetsprogramwar.dll
+C:\Users\lord-\Desktop\project\test\codewars\tetsprogramwar\obj\Debug\net5.0\ref\tetsprogramwar.dll
+C:\Users\lord-\Desktop\project\test\codewars\tetsprogramwar\obj\Debug\net5.0\tetsprogramwar.pdb
+C:\Users\lord-\Desktop\project\test\codewars\tetsprogramwar\obj\Debug\net5.0\tetsprogramwar.genruntimeconfig.cache
